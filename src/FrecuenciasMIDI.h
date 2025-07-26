@@ -8,7 +8,7 @@
     JI08 = 3
 };
 
-Class FrecuenciasMIDI {
+class FrecuenciasMIDI {
     public:
         // constructor
         FrecuenciasMIDI();
