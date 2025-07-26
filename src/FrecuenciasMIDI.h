@@ -1,6 +1,9 @@
 #ifndef FRECUENCIAS_MIDI_H
 #define FRECUENCIAS_MIDI_H
 
+// include Arduino library
+#include <Arduino.h>
+
 enum Temperamento {
     ET12 = 0,
     ET08 = 1,
