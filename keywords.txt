@@ -1,0 +1,18 @@
+################################
+# Classes
+################################
+
+FrecuenciasMIDI		KEYWORD1
+
+################################
+# Methods and functions
+################################
+
+notaToFrequencia	KEYWORD2
+frequenciaToNota	KEYWORD2
+
+################################
+# Constants
+################################
+
+velocidadSerial		KEYWORD3
