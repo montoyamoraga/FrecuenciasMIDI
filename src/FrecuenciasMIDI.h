@@ -1,7 +1,7 @@
 #ifndef FRECUENCIAS_MIDI_H
 #define FRECUENCIAS_MIDI_H
 
-@enum Temperamento {
+enum Temperamento {
     ET12 = 0,
     ET08 = 1,
     JI12 = 2,
