@@ -9,7 +9,7 @@
             "browse": {
                 "path": [
                     "${workspaceFolder}/**",
-                    "/Users/montoyamoraga/Documents/Arduino/libraries"
+                    "/Users/**/Documents/Arduino/libraries"
                 ]
             },
             "defines": [],
